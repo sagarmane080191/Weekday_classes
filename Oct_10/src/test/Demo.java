@@ -9,6 +9,9 @@ public class Demo {
 		
 		double DOB= 8011991;
 		System.out.println(DOB);
+		
+		float pi= (float) 3555555.144454;
+		System.out.println(pi);
 		// TODO Auto-generated method stub
 
 	}
