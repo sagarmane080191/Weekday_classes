@@ -2,6 +2,8 @@ package test;
 
 public class Demo {
 
+	private static final boolean True = false;
+
 	public static void main(String[] args) {
 		
 		String name= "Sagar";
@@ -13,6 +15,13 @@ public class Demo {
 		float pi= (float) 3555555.144454;
 		System.out.println(pi);
 		// TODO Auto-generated method stub
+		
+		boolean isName= True;
+		System.out.println(isName);
+		
+		
+
+		
 
 	}
 
