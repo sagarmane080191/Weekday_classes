@@ -19,6 +19,9 @@ public class Demo {
 		boolean isName= True;
 		System.out.println(isName);
 		
+		int N= 8;
+		System.out.println(N);
+		
 		
 
 		
