@@ -15,7 +15,7 @@ public class patterns {
 //			System.out.print("*");
 //
 //		}
-//		System.out.println();
+//		System.out.println(); tes
 //		}
 		for (int i= 1; i<=n; i++)
 			{

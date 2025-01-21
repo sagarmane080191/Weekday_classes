@@ -18,6 +18,7 @@ public class Natural_num_sum {
 		for (int i=1; i<=n; i++)
 		{
 			System.out.println(n*i);
+						
 		}
 
 	}
